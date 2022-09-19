@@ -12,7 +12,7 @@ Voraussetzung für die App ist ein gängiger Webbrowser (Firefox, Google Chrome,
 
 Die Webanwendung kann über GitHub Pages in ihrer Basiskonfiguration ohne Installation über die folgende Web-URL direkt genutzt werden: https://eild-nrw.github.io/los_trainer/. Über die Web-URL ist die Webanwendung immer auf dem neusten Stand und muss nicht von Hand aktualisiert werden.
 
-Alternativ kann das Repository als ZIP-Datei heruntergeladen, auf einem beliebigen Webspace entpackt und durch den Aufruf der enthaltenen `index.html` gestartet werden. Die ZIP-Variante hat den Vorteil einer von GitHub unabhängigen Version ohne externe Abhängigkeiten.
+Alternativ kann das Repository als ZIP-Datei heruntergeladen, auf einem beliebigen Webspace entpackt und durch den Aufruf der enthaltenen `index.html` gestartet werden. Die ZIP-Variante hat den Vorteil einer von GitHub unabhängigen Version ohne externe Abhängigkeiten und einer weitreichenden individuellen Anpassbarkeit.
 
 In einer Lernplattform (z.B. ILIAS oder Moodle) kann die App entweder über die Web-URL, über das Hochladen der ZIP-Datei oder via SCORM integriert werden.
 
@@ -22,14 +22,14 @@ Durch das Editieren der im Repository enthaltenen `resources/resources.js` könn
 
 ## Datenverarbeitung
 
-An keiner Stelle werden Benutzer-spezifische Daten verarbeitet. Es handelt sich um reine Selbsttests mit direktem Feedback, was richtig/falsch beantwortet wurde.
+Es werden an keiner Stelle Benutzer-spezifische Daten verarbeitet. Es handelt sich um reine Selbsttests mit direktem Feedback, was richtig/falsch beantwortet wurde. Es existieren keine Abhängigkeiten zu externen Servern und es findet entsprechend kein Datenaustausch mit anderen Servern statt.
 
 ## Hintergrundinformationen
 
-Der Los-Trainer wurde an der Hochschule Bonn-Rhein-Sieg im Rahmen des EILD-Projekts als Bachelorarbeit von Jan Hase entwickelt. Der Los-Trainer ist eine erweiterung des ER_REL-Trainer.
+Der LOS-Trainer wurde an der Hochschule Bonn-Rhein-Sieg im Rahmen des EILD-Projekts als Bachelorarbeit von Jan Hase entwickelt. Bei der Implementierung handelt es sich um einen Prototypen.
 
 ## Kontakt
 
-Wir freuen uns über jedes Feedback und beantworten gern Ihre Fragen. Hierfür können Sie sich jederzeit (auch nach dem Ende des EILD-Projekts) an den Entwickler André Kless wenden.
+Wir freuen uns über jedes Feedback und beantworten gern Ihre Fragen. Wenden Sie sich hierfür an den Projektmitarbeiter André Kless.
 
 Email: andre.kless@h-brs.de | Web: https://www.h-brs.de/de/inf/andre-kless
