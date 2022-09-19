@@ -1,8 +1,8 @@
-# Los-Trainer
+# LOS-Trainer
 
 ## Beschreibung
 
-Mit dem LOS-Trainer wird, ausgehend von einer Phrase, die Überführung einer Beziehung zwischen zwei Entitäten eines ER-Diagramms in ein logisches objektrelationales Schema trainiert. Es gilt die nötigen Tabellen oder Typen anzulegen, die erforderlichen Objektidentifikatoren, Referenzen oder Einbettungen zu ergänzen und die Richtung festzulegen, in der die Objekte miteinander in Beziehung stehen.
+Mit dem LOS-Trainer (LOS = Logisch Objektrelationales Schema) wird, ausgehend von einer Phrase, die Überführung einer Beziehung zwischen zwei Entitäten eines ER-Diagramms in ein logisches objektrelationales Schema trainiert. Es gilt die nötigen Tabellen oder Typen anzulegen, die erforderlichen Objektidentifikatoren, Referenzen oder Einbettungen zu ergänzen und die Richtung festzulegen, in der die Objekte miteinander in Beziehung stehen.
 
 ## Systemanforderungen
 
