@@ -26,7 +26,7 @@ Es werden an keiner Stelle Benutzer-spezifische Daten verarbeitet. Es handelt si
 
 ## Hintergrundinformationen
 
-Der LOS-Trainer wurde an der Hochschule Bonn-Rhein-Sieg im Rahmen des EILD-Projekts als Bachelorarbeit von Jan Hase entwickelt. Bei der Implementierung handelt es sich um einen Prototypen.
+Der LOS-Trainer wurde an der Hochschule Bonn-Rhein-Sieg im Rahmen des EILD-Projekts als Bachelorarbeit von Jan Hase entwickelt.
 
 ## Kontakt
 
