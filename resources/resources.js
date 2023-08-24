@@ -158,7 +158,7 @@ export const text = {
   "show_solution": "Zeige Lösung",
   "submit": "Antworten",
   "table": "-Tabelle",
-  "title": "Los-Trainer",
+  "title": "LOS-Trainer",
   //new
   "typ": "-Typ",
   "eb":"Einbettung",
