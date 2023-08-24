@@ -33,7 +33,7 @@ Es existieren keine Abhängigkeiten zu externen Servern und es findet entspreche
 
 ## Hintergrundinformationen
 Der [LOS-Trainer](https://github.com/eild-nrw/los_trainer) wurde ausgehend
-vom [ER-REL-Trainer](https://github.com/eild-nrw/los_trainer) von
+vom [ER-REL-Trainer](https://github.com/eild-nrw/los_trainer)
 von Jan Hase als Bachelorarbeit im Rahmen
 des [EILD-Projekts](https://eild.nrw) an
 der [Hochschule Bonn-Rhein-Sieg](https://h-brs.de) entwickelt.
