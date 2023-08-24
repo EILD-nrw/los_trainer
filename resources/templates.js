@@ -242,7 +242,7 @@ export function main(instance, state, phrase, phrase_nr, events) {
     <!-- Lizenzen -->
     <aside class="bg-light rounded text-center form-text mt-4 mx-3">
       Der <a href="https://github.com/eild-nrw/los_trainer" target="_blank">LOS-Trainer</a> wurde ausgehend
-      vom <a href="https://github.com/orca-nrw/er_erl_trainer" target="_blank">ER-REL-Trainer</a>
+      vom <a href="https://github.com/orca-nrw/er_rel_trainer" target="_blank">ER-REL-Trainer</a>
       von Jan Hase als Bachelorarbeit im Rahmen
       des <a href="https://eild.nrw" target="_blank">EILD-Projekts</a> an
       der <a href="https://h-brs.de" target="_blank">Hochschule Bonn-Rhein-Sieg</a> entwickelt.
